@@ -109,4 +109,4 @@ This project is licensed under the MIT License.
 
 * **Developer:** Vansh Upveja
 * **Email:** [vanshupveja.06@gmail.com](mailto:vanshupveja.06@gmail.com)
-* **LinkedIn:** [vansh-upveja]([https://www.linkedin.com/in/vansh-upveja-115036250/](https://www.linkedin.com/in/vansh-upveja-115036250/))
+* **LinkedIn:** [Vansh Upveja](https://www.linkedin.com/in/vansh-upveja-115036250/)
